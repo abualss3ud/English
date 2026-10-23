@@ -1,0 +1,6 @@
+{
+  "name": "English On The Go",
+  "description": "Learn English vocabulary from level A1 with short daily lessons, quizzes, native audio pronunciation, and spaced repetition for Arabic speakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
